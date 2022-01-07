@@ -1,0 +1,6 @@
+01 Start
+02. Accept a character 'ch' as input.
+03. If 'ch' is not an alphabet Display "Incorrect Data". 
+Else if 'ch' is lower case character then subtract 32 from the ASCII value of 'ch' Display 'ch'.
+Else add 32 to ASCII value of 'ch' and Display 'ch'
+04. Stop  */
