@@ -1,0 +1,11 @@
+/* Algorithm:
+01. Start
+02. Accept 'n'
+03. Assign a = 0, b = 1 (First two terms of the fibonacci)
+04. If n = 1 display a
+    Else if n = 2 display b
+    Else proceed to step 05.
+05. Repeat the following steps n - 2 times.
+06. c = a + b, a = b, b = C
+07. Display c 
+08. Stop.  */
