@@ -1,0 +1,8 @@
+1)Start
+2)Enter the values of n,x,m,y values.
+3)In a chess board if the position entered is (1,1) and (2,2).
+4)The colour for both positions entered is either black or white.
+5)Means the same colour.
+6)If we sum the positions and divide with 2.
+7)After dividing if we get the remainder 0,then we get the same colour.
+8)Else we get the different colour.
